@@ -13,7 +13,7 @@ A beautiful React application to search and explore GitHub user profiles and rep
 - **Responsive Design** - Beautiful UI that works on all devices
 - **External Links** - Direct links to GitHub profiles and repositories
 
-## 🚀 Technologies Used
+## 🚀 Technologies Used:
 
 - **React 19.2.0** - UI framework
 - **Vite 7.2.4** - Build tool and dev server
