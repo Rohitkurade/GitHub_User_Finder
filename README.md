@@ -94,7 +94,7 @@ Error display component with dismissible option
 - **HTML** - Orange Red
 - **Go** - Cyan
 - **Ruby** - Red
-- And many more...
+- And many more.....
 
 ## 📱 Responsive Breakpoints
 
