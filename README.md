@@ -61,7 +61,7 @@ For higher rate limits, use a GitHub personal access token:
 Search input form with user validation and submit handler
 
 ### UserCard.jsx
-Displays user profile information including:
+Displays user profile information including: 
 - Avatar image
 - User name and bio
 - Location, company, website, email
