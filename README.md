@@ -1,7 +1,7 @@
 # GitHub User Finder
 
-A beautiful React application to search and explore GitHub user profiles and repositories. Search any GitHub username and instantly view their profile information, public repositories, and statistics.
-
+A beautiful React application to search and explore GitHub user profiles and repositories. Search any GitHub username and instantly view their profile information, public repositories , and statistics.
+ 
 ## 🌟 Features
 
 - **User Search** - Search for any GitHub username in real-time
